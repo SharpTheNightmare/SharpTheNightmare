@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on [RBot](https://github.com/Quiet-ORG/RBot/)
+- Currently working on __[RBot](https://github.com/Quiet-ORG/RBot/)__
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SharpTheNightmare&count_private=true&show_icons=true&theme=chartreuse-dark" />
