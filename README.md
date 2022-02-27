@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - Currently working on __[PayloadAIO](https://github.com/SharpTheNightmare/PayloadAIO/)__
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SharpTheNightmare&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharpTheNightmare&theme=chartreuse-dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SharpTheNightmare&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharpTheNightmare&theme=tokyonight" />
 </a>
 
