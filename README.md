@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on __[PayloadAIO](https://github.com/SharpTheNightmare/PayloadAIO/)__
+<!-- - Currently working on __[PayloadAIO](https://github.com/SharpTheNightmare/PayloadAIO/)__ -->
 
 ![SharpTheNightmares's github stats](https://github-readme-stats.vercel.app/api?username=SharpTheNightmare&count_private=true&border_color=bb4f23&bg_color=30,020344,7F4AA0&title_color=bb4f23&text_color=4dd699)
 
